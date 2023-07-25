@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:hello_there/pages/hello_page.dart';
+export 'package:hello_there/utils/app_theme.dart';
+export 'package:hello_there/utils/string.dart';
+export 'package:hello_there/utils/my_slide_transition.dart';
+export 'package:hello_there/color/color_generator.dart';
+export 'package:hello_there/model/color_model.dart';
+export 'package:hello_there/widget/animated_tap_container.dart';
+export 'package:hello_there/widget/container_decoration.dart';
+export 'dart:math';
