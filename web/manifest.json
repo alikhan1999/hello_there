@@ -1,6 +1,6 @@
 {
-    "name": "hello_there",
-    "short_name": "hello_there",
+    "name": "empathyGenerator",
+    "short_name": "empathyGenerator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

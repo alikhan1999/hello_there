@@ -1,4 +1,4 @@
-import 'package:hello_there/all_utils.dart';
+import 'package:empathyGenerator/all_utils.dart';
 
 class AnimatedOnTapContainer extends StatelessWidget {
   final VoidCallback callback;

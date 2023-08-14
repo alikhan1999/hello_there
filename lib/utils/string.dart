@@ -1,3 +1,3 @@
 class AppString {
-  static const String helloThere = 'HELLO THERE';
+  static const String empathy_generator = 'Empathy Generator';
 }

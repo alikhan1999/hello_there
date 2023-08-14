@@ -1,4 +1,4 @@
-package com.example.hello_there
+package com.empathygenerator.app
 
 import io.flutter.embedding.android.FlutterActivity
 

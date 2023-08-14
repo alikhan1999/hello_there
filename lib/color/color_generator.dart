@@ -1,4 +1,4 @@
-import 'package:hello_there/all_utils.dart';
+import 'package:empathyGenerator/all_utils.dart';
 
 class ColorGenerator {
   // Define constraints for HSL color space

@@ -1,4 +1,4 @@
-# hello_there
+# empathyGenerator_there
 
 A new Flutter project.
 

@@ -1,6 +1,13 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.empathygenerator.app">
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <queries>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+    </queries>
     <application
-        android:label="hello_there"
+        android:label="Empathy Generator"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

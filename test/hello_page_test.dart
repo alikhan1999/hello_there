@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hello_there/all_utils.dart';
+import 'package:empathyGenerator/all_utils.dart';
 
 
 

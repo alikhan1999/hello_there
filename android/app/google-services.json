@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "635199734145",
+    "project_id": "empathy-generator-c1c6b",
+    "storage_bucket": "empathy-generator-c1c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635199734145:android:370332ff85a9359fcce880",
+        "android_client_info": {
+          "package_name": "com.empathygenerator.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635199734145-lim3qkrb0jvllssc3ivd9uqep5lgjttv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZDO1oPc27xdB88uVuXSI3cCe3R-5YHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635199734145-lim3qkrb0jvllssc3ivd9uqep5lgjttv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635199734145-s8aiir1gkupbqttksp13aobgrb5el928.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.empathygenerator.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

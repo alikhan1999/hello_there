@@ -1,4 +1,4 @@
-import 'package:hello_there/all_utils.dart';
+import 'package:empathyGenerator/all_utils.dart';
 
 class AppDecoration {
   static BoxDecoration boxDecorationWithRadius(ColorModel color) =>
